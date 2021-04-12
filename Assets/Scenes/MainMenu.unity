@@ -200,7 +200,7 @@ RectTransform:
   m_AnchorMin: {x: 1, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1040, y: 1080}
+  m_SizeDelta: {x: 1010, y: 1080}
   m_Pivot: {x: 1, y: 0.5}
 --- !u!1 &186495032
 GameObject:
@@ -311,7 +311,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u672C\u8F6F\u4EF6\u4E3A\u975E\u76C8\u5229\u6027\u8D28\u7684\u540C\u4EBA\u6E38\u620F\uFF0C\u5176\u89D2\u8272\u8457\u4F5C\u6743\u5F52\u7248\u6743\u65B9\u6240\u6709\u3002"
+  m_Text: "\u672C\u8F6F\u4EF6\u4E3A\u975E\u76C8\u5229\u540C\u4EBA\u6E38\u620F\uFF0C\u4EBA\u7269\u8457\u4F5C\u6743\u5F52\u7248\u6743\u65B9\u6240\u6709\uFF0C\u7A0B\u5E8F\u90E8\u5206\u9075\u5B88
+    MIT License\u3002"
 --- !u!222 &288731966
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -699,7 +700,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 3050dd8a05120ac4cb9bd1e931449b09, type: 3}
+  m_Sprite: {fileID: 21300000, guid: c72e14907f3678848b76d102961bbd7f, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1215,7 +1216,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 3050dd8a05120ac4cb9bd1e931449b09, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f5052d982d46ea7468be1cfb836ba0d2, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
